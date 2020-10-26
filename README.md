@@ -1,5 +1,3 @@
-# Aula 39
+# Projeto - Gerenciamento de Despesas
 
 Curso ASP.NET CORE MVC 2
-
-Projeto Final Módulo Iniciante - Gerenciamento de Despesas
